@@ -1,8 +1,8 @@
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:ri_task/blocs/fetch_data_bloc/fetch_data_bloc.dart';
 import 'package:ri_task/views/add_details.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:hive/hive.dart';
 
 import '../widgets/custom_snackbar.dart';
 
